@@ -6,10 +6,7 @@
       "willBeLogged": true,
       "text": "Not2!",
       "action": "action_a",
-      "tags": [
-        "$InstallationId:{6cb29daf8ce5c56a}",
-        "$InstallationId:{BC20A4E9-5348-4375-A082-F3325BEED652}"
-      ],
+      "tags": [],
       "silent": false
     }
   ]
