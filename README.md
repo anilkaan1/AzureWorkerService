@@ -5,10 +5,8 @@ https://docs.microsoft.com/en-us/azure/developer/mobile-apps/notification-hubs-b
 
 
 dotnet user-secrets init
-
-dotnet user-secrets set "NotificationHub:Name" <value>
-
-dotnet user-secrets set "NotificationHub:ConnectionString" <value>
+  - dotnet user-secrets set "NotificationHub:Name" <value>
+  - dotnet user-secrets set "NotificationHub:ConnectionString" <value>
   
 Replace the placeholder values with your own notification hub name and connection string values. You made a note of them in the create a notification hub section. Otherwise, you can look them up in Azure.
 
